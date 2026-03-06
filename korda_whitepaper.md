@@ -1,6 +1,6 @@
 # Korda-Agent: A Deterministic Autonomous Agent Language
 
-**Korda Lab — Draft v1**
+**Bravo Media — Draft v1**
 *Grammar Specification v0.1.2*
 
 ---
