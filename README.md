@@ -27,7 +27,7 @@ Certain actions are structurally impossible to express:
 Not rejected at runtime. Structurally impossible.
 
 ## Read the Whitepaper
-→ [whitepaper.md](./whitepaper.md)
+→ [whitepaper.md](korda_whitepaper.md)
 
 ## Read the Specification
 → [spec/grammar-v0.1.2.md](./spec/grammar-v0.1.2.md)
