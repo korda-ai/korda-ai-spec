@@ -33,7 +33,7 @@ Not rejected at runtime. Structurally impossible.
 → [spec/grammar-v0.1.2.md](./spec/grammar-v0.1.2.md)
 
 ## Run the Conformance Tests
-→ [conformance/tests.md](./conformance/tests.md)
+→ [conformance/tests.md](conformance_tests.md)
 
 ---
 
