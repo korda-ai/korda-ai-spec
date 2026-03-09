@@ -29,8 +29,12 @@ Not rejected at runtime. Structurally impossible.
 ## Read the Whitepaper
 → [whitepaper.md](korda_whitepaper.md)
 
-## Read the Specification
-→ [spec/grammar-v0.1.2.md](./spec/grammar-v0.1.2.md)
+## Grammar Specification Access
+
+The full Korda AI grammar specification is available to registered partners
+and enterprise licensees.
+
+Contact: contact@bravomedia.uk
 
 ## Run the Conformance Tests
 → [conformance/tests.md](conformance_tests.md)
