@@ -29,12 +29,6 @@ Not rejected at runtime. Structurally impossible.
 ## Read the Whitepaper
 → [whitepaper.md](korda_whitepaper.md)
 
-## Grammar Specification Access
-
-The full Korda AI grammar specification is available to registered partners
-and enterprise licensees.
-
-Contact: contact@bravomedia.uk
 
 ## Run the Conformance Tests
 → [conformance/tests.md](conformance_tests.md)
@@ -48,6 +42,13 @@ A formal BNF grammar. A conformance test suite.
 A new category: Deterministic Autonomous Agents.
 
 ---
+
+## Grammar Specification Access
+
+The full Korda AI grammar specification is available to registered partners
+and enterprise licensees.
+
+Contact: contact@bravomedia.uk
 
 ## Contact
 
