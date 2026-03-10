@@ -53,4 +53,3 @@ Contact: contact@bravomedia.uk
 ## website
 
 website [bravomedia.uk](https://bravomedia.uk/)
-contact@bravomedia.uk
