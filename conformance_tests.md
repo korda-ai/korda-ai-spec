@@ -308,5 +308,5 @@ fix:     non-empty string
 
 *Korda AI Grammar Specification v0.1.2*
 *https://github.com/korda-ai/korda-ai-spec*
-*contact@bravomedia.uk*
+*contact@bravomedia.uk*  
 *A Bravo Media Group development.*
