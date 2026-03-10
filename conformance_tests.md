@@ -3,7 +3,7 @@
 *Grammar Specification v0.1.2 — Appendix C*
 
 A Bravo Media Group development.
-contact@bravomedia.uk
+contact@bravomedia.uk  
 https://github.com/korda-ai/korda-ai-spec
 
 ---
