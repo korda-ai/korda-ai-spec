@@ -48,7 +48,6 @@ A new category: Deterministic Autonomous Agents.
 The full Korda AI grammar specification is available to registered partners
 and enterprise licensees.
 
-## Developed
 
 Developed By Albert Bravo
 
