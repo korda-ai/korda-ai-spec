@@ -320,6 +320,8 @@ Korda-Agent is that boundary. By defining a formal grammar for AI actions, and b
 Grammar is a safety layer. Parse time is earlier than runtime. The constraint is the point.
 
 ---
+## Developed
+Developed by Albert Bravo
 
 *Korda- AI Agent Grammar Specification v0.1.2 is available at (https://github.com/korda-ai/korda-ai-spec).*
 *Correspondence: [contact@bravomedia.uk]*
