@@ -321,7 +321,7 @@ Grammar is a safety layer. Parse time is earlier than runtime. The constraint is
 
 ---
 ## Developed
-Developed by Albert Bravo
+Developed by Alberto Bravo
 
 *Korda- AI Agent Grammar Specification v0.1.2 is available at (https://github.com/korda-ai/korda-ai-spec).*
 *Correspondence: [contact@bravomedia.uk]*
