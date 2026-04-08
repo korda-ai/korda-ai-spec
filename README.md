@@ -49,7 +49,7 @@ The full Korda AI grammar specification is available to registered partners
 and enterprise licensees.
 
 
-Developed By Albert Bravo
+Developed By Alberto Bravo
 
 Contact: contact@bravomedia.uk
 
