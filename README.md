@@ -8,7 +8,7 @@ The Deterministic Autonomous Agent Standard — formal grammar specification, wh
 > at the language level, Korda AI renders entire categories of unsafe AI
 > behavior syntactically inexpressible.
 
-A Bravo Media Group development.
+A Bravo01 Labs & Dynamics development.
 
 ---
 
@@ -51,8 +51,8 @@ and enterprise licensees.
 
 Developed By Alberto Bravo
 
-Contact: contact@bravomedia.uk
+Contact: contact@bravo-01-labs.com
 
 ## website
 
-website [bravomedia.uk](https://bravomedia.uk/)
+website [bravo-01-labs.com](https://bravo-01-labs.com/)
