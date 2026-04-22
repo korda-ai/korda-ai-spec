@@ -2,8 +2,8 @@
 ### The Deterministic Autonomous Agent Standard
 *Grammar Specification v0.1.2 — Appendix C*
 
-A Bravo Media Group development.
-contact@bravomedia.uk  
+A Bravo01 Labs & Dynamics development.
+contact@bravo-01-labs.com  
 https://github.com/korda-ai/korda-ai-spec
 
 ---
@@ -308,5 +308,5 @@ fix:     non-empty string
 
 *Korda AI Grammar Specification v0.1.2*
 *https://github.com/korda-ai/korda-ai-spec*
-*contact@bravomedia.uk*  
-*A Bravo Media Group development.*
+*contact@brav-01-labs.com*  
+*A Bravo01 Labs & Dynamics development.*
