@@ -1,6 +1,6 @@
 # Korda-Agent: A Deterministic Autonomous Agent Language
 
-**Bravo Media — Draft v1**
+**Bravo 01 Labs & Dynamics — Draft v1**
 *Grammar Specification v0.1.2*
 
 ---
@@ -324,4 +324,4 @@ Grammar is a safety layer. Parse time is earlier than runtime. The constraint is
 Developed by Alberto Bravo
 
 *Korda- AI Agent Grammar Specification v0.1.2 is available at (https://github.com/korda-ai/korda-ai-spec).*
-*Correspondence: [contact@bravomedia.uk]*
+*Correspondence: [contact@bravo-01-labs.com]*
